@@ -11,6 +11,7 @@ The following steps describe how to create a new bot:
 
 ### python and tools update
 The following instruction describe upgrade tools or plugin
+#### 使用 python3 和 pip3
 - <code>pip3 install --upgrade setuptools </code>
 - <code>pip3 install python-telegram-bot --upgrade</code> 
 - <code>pip3 install playsound</code> 
