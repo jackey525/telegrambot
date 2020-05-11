@@ -9,3 +9,10 @@ The following steps describe how to create a new bot:
 - If your chosen name is available, BotFather will send you a token
 - Save the token
 
+### python and tools update
+<code>pip3 install --upgrade setuptools<code>
+<code>pip3 install python-telegram-bot --upgrade<code>
+<code>pip3 install playsound<code>
+  
+### start service
+<code>python3 hello.py<code>
